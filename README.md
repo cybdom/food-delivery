@@ -2,7 +2,9 @@
 Fancy food delivery app built in flutter by Cybdom.
 
 Result:
+
     <img src="screenshot_1.jpg" height="480px">
+    
     <img src="screenshot_2.jpg" height="480px">
 
 ## Getting Started
